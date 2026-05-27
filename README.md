@@ -54,13 +54,4 @@ Setiap permintaan data mengikuti alur yang terstruktur:
 -   **Home Dashboard:** Layout kartu buku yang modern dengan bayangan halus dan navigasi kategori yang intuitif.
 -   **Visual Feedback:** Penggunaan animasi transisi yang ringan dan *shimmer effect* untuk memberikan pengalaman loading yang tidak membosankan.
 
-## 📸 Demo & Screenshot
 
-*(Silakan lampirkan screenshot atau link demo Anda di bawah ini)*
-
-- **Repository:** [https://github.com/afrizal423/indexstat-test](https://github.com/afrizal423/indexstat-test)
-- **Video Demo:** [Link Video Demo]
-- **Screenshot:** [Link Folder Screenshot]
-
----
-*Proyek ini saya kembangkan sebagai bagian dari tes teknis untuk menunjukkan kemampuan dalam membangun aplikasi Flutter yang berkualitas industri.*
